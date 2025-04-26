@@ -1,0 +1,3 @@
+Download the Hunyuan DiT checkpoints from the official source or the designated repository.
+Follow the download instructions provided by the maintainers.
+Once downloaded, place the checkpoints in this directory.
